@@ -1,0 +1,91 @@
+C:\DotNet\Custom Apps\LLM Interaction\bin\LLM Interaction.dll.config
+C:\DotNet\Custom Apps\LLM Interaction\bin\LLM Interaction.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\LLM Interaction.pdb
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\csc.exe
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\csc.exe.config
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\csc.rsp
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\csi.exe
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\csi.exe.config
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\csi.rsp
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.AppContext.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Collections.Immutable.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Console.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Globalization.Calendars.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.IO.Compression.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.IO.FileSystem.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Net.Http.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Net.Sockets.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Reflection.Metadata.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.ValueTuple.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Xml.XPath.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\vbc.exe
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\vbc.exe.config
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\vbc.rsp
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\VBCSCompiler.exe
+C:\DotNet\Custom Apps\LLM Interaction\bin\roslyn\VBCSCompiler.exe.config
+C:\DotNet\Custom Apps\LLM Interaction\bin\Antlr3.Runtime.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\Microsoft.Web.Infrastructure.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\Newtonsoft.Json.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Net.Http.Formatting.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Helpers.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Http.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Http.WebHost.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Mvc.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Optimization.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Razor.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.WebPages.Deployment.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.WebPages.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.WebPages.Razor.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\WebGrease.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\Newtonsoft.Json.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Net.Http.Formatting.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Helpers.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Http.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Http.WebHost.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Mvc.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Optimization.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.Razor.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.WebPages.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.WebPages.Deployment.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\System.Web.WebPages.Razor.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\Antlr3.Runtime.pdb
+C:\DotNet\Custom Apps\LLM Interaction\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DotNet\Custom Apps\LLM Interaction\obj\Debug\LLM Interaction.csproj.AssemblyReference.cache
+C:\DotNet\Custom Apps\LLM Interaction\obj\Debug\LLM Interaction.csproj.CoreCompileInputs.cache
+C:\DotNet\Custom Apps\LLM Interaction\obj\Debug\LLM Inte.4B53F5BA.Up2Date
+C:\DotNet\Custom Apps\LLM Interaction\obj\Debug\LLM Interaction.dll
+C:\DotNet\Custom Apps\LLM Interaction\obj\Debug\LLM Interaction.pdb
+C:\DotNet\Custom Apps\LLM Interaction\bin\EntityFramework.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\EntityFramework.SqlServer.dll
+C:\DotNet\Custom Apps\LLM Interaction\bin\EntityFramework.xml
+C:\DotNet\Custom Apps\LLM Interaction\bin\EntityFramework.SqlServer.xml
+C:\DotNet\Custom Apps\LLM Interaction\obj\Debug\LLM_Interaction.Migrations.InitialCreate.resources
+C:\DotNet\Custom Apps\LLM Interaction\obj\Debug\LLM Interaction.csproj.GenerateResource.cache
