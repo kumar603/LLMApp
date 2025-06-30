@@ -1,0 +1,181 @@
+Got it, I understand\! You prefer to use the task name `Project Setup` directly in the branch and commit messages, rather than the Jira Story ID like `SCRUM-1`. This is absolutely fine and can work well, especially if your team primarily refers to tasks by their short names.
+
+Let's refine the process focusing **only on the "Project Setup" task** (within the "Project Setup and Database Design" Sprint), ensuring we **do not use "SCRUM"** in the naming.
+
+**Scenario:** You are about to start implementing the "Project Setup" task.
+
+-----
+
+### Revised Git Commands for "Project Setup" Task
+
+**Goal:** To implement the initial solution and project structure for "Project Setup" task and get that code pushed to GitHub.
+
+**Pre-requisites:**
+
+  * You have Git installed.
+  * Your project folder (`C:\DotNet\Custom Apps\LLM Interaction`) is open in a terminal or Git Bash.
+  * Visual Studio is **closed** initially.
+  * You have **already completed the very first initial `git init`, identity setup, `git add .`, `git commit`, `git remote add origin`, and `git push -u origin master`** that established the *empty* repository with just `.gitignore` and `README.md` on your `master` branch.
+      * *(If you haven't done this absolute first push yet, you'd do that direct push to master first, then immediately switch to this branching workflow for all subsequent work).*
+
+-----
+
+#### **Phase 1: Prepare Your Local Repository**
+
+Always start by ensuring your local `master` branch is up-to-date with whatever is on GitHub.
+
+1.  **Switch to the `master` branch:**
+
+    ```bash
+    git checkout master
+    ```
+
+2.  **Pull the latest changes from GitHub's `master` branch:**
+
+    ```bash
+    git pull origin master
+    ```
+
+    *This ensures you have the latest code (e.g., your `README.md` and `.gitignore` from the initial push).*
+
+-----
+
+#### **Phase 2: Create a New Feature Branch for "Project Setup" Task**
+
+This is where you branch off `master` to work on your specific task.
+
+```bash
+# Create a new branch named 'feature/project-setup' and switch to it
+git checkout -b feature/project-setup
+```
+
+*Explanation:*
+
+  * `feature/`: A common prefix to indicate it's a feature development branch.
+  * `project-setup`: The name of your task, making the branch's purpose clear.
+
+**Now, you are on the `feature/project-setup` branch.**
+
+-----
+
+#### **Phase 3: Perform the Work for "Project Setup" Task**
+
+1.  **Open Visual Studio:** Now you can open your project in Visual Studio.
+2.  **Implement the tasks:**
+      * Create a new Visual Studio solution named `LLMApp`.
+      * Add ASP.NET Core MVC 4.8 project (`LLMApp.web`).
+      * Add Class Library project for data access (`LLMApp.data`).
+      * Add Class Library project for services (`LLMApp.services`).
+      * Add Class Library project for testing (`LLMApp.tests`).
+      * Configure project references.
+3.  **Save all changes in Visual Studio.**
+4.  **Close Visual Studio.** (To avoid file lock issues when Git adds files).
+
+-----
+
+#### **Phase 4: Stage and Commit Your Changes to Your Feature Branch**
+
+Commit your work as logical chunks.
+
+1.  **Add all new and changed files to the staging area:**
+
+    ```bash
+    git add .
+    ```
+
+2.  **Commit your changes with a meaningful message:**
+
+    ```bash
+    git commit -m "Project Setup: Initial solution and core projects"
+    ```
+
+    *Notice the `"Project Setup:"` prefix in the commit message. This links directly to your task name.*
+
+    *(You can repeat `git add .` and `git commit -m "..."` for more granular commits as you progress through the "Project Setup" subtasks, always using the "Project Setup:" prefix.)*
+
+-----
+
+#### **Phase 5: Push Your Feature Branch to GitHub**
+
+Once you're ready to share your work or create a backup on GitHub:
+
+```bash
+# Push your local feature branch to GitHub
+git push -u origin feature/project-setup
+```
+
+*The `-u` is only needed the very first time you push this specific branch. Subsequent pushes from this branch will just be `git push`.*
+
+-----
+
+#### **Phase 6: Create a Pull Request (PR) on GitHub**
+
+When you consider the "Project Setup" task completed and ready for review/merging:
+
+1.  **Go to GitHub:** Open your `LLMApp` repository in your web browser.
+2.  **Create a New Pull Request:** GitHub will often prompt you if it detects a recently pushed branch. If not, go to the "Pull requests" tab and click "New pull request."
+3.  **Select Branches:**
+      * **Base:** `master` (This is the target branch where your changes will go).
+      * **Compare:** `feature/project-setup` (This is your branch with the new code).
+4.  **Fill in PR Details:**
+      * **Title:** "Project Setup: Initial Solution and Project Structure"
+      * **Description:** Briefly explain what this PR introduces (e.g., "This PR creates the foundational Visual Studio solution and adds the core projects for web, data, services, and tests.").
+5.  **Assign Reviewers:** (If working with a team).
+6.  **Merge Pull Request:** Once approved, merge the PR into `master`.
+
+-----
+
+#### **Phase 7: Clean Up (After Merging)**
+
+After your `feature/project-setup` branch has been successfully merged into `master` via the Pull Request:
+
+1.  **Switch back to `master` locally:**
+    ```bash
+    git checkout master
+    ```
+2.  **Pull the merged changes from GitHub:**
+    ```bash
+    git pull origin master
+    ```
+    *Now your local `master` branch is up-to-date with all the changes you just merged.*
+3.  **Delete the local feature branch (optional but recommended):**
+    ```bash
+    git branch -d feature/project-setup
+    ```
+    *This cleans up your local list of branches. The `-d` is a safe delete; use `-D` for force delete if needed.*
+4.  **(Optional) Delete the remote feature branch:** You can often do this directly from the GitHub UI after merging a PR, or via command line:
+    ```bash
+    git push origin --delete feature/project-setup
+    ```
+
+This workflow directly ties your code changes to your "Project Setup" task without using the "SCRUM" prefix. You would repeat this *entire process* (starting from Phase 1/2) for your next task, e.g., "Database Design," creating a `feature/database-design` branch for that work.
+
+
+
+# 1. Ensure your local master branch is up-to-date
+git checkout master
+git pull origin master
+
+# 2. Create a new feature branch for "Database Design" (using Jira ID)
+git checkout -b SCRUM-2-database-design
+
+# 3. (Perform your database design work in Visual Studio here, e.g., add models, DBContext, migrations)
+#    (Save your work and close Visual Studio before committing)
+
+# 4. Add and commit your changes to your feature branch
+git add .
+git commit -m "SCRUM-2: Implemented initial database schema and context"
+
+# 5. Push your feature branch to GitHub
+git push -u origin SCRUM-2-database-design
+
+# 6. (Go to GitHub and create a Pull Request from SCRUM-2-database-design to master)
+#    (Title the PR: "SCRUM-2: Database Design - Initial Schema and EF Context")
+#    (Get it reviewed and merge it)
+
+# 7. (After merging the PR on GitHub) Switch back to master and pull the changes
+git checkout master
+git pull origin master
+
+# (Optional: If you wanted to delete the branch locally, you would run: git branch -d SCRUM-2-database-design)
+# (Optional: If you wanted to delete the branch remotely, you would run: git push origin --delete SCRUM-2-database-design)

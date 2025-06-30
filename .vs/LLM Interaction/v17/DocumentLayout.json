@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\data\\llmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\data\\llmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:data\\llmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\models\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\models\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:models\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
               "ToolTip": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Migrations\\Configuration.cs",
               "RelativeToolTip": "Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T07:00:36.813Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Models\\Prompt.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T06:14:52.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T06:14:52.506Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Models\\Model.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T06:11:17.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T06:11:17.071Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Data\\LLMDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T05:56:36.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T05:56:36.709Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Models\\Provider.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T05:55:34.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T05:55:34.732Z"
             },
             {
               "$type": "Document",
