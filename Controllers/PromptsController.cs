@@ -9,12 +9,33 @@ using System.Web;
 using System.Web.Mvc;
 using LLM_Interaction.Data;
 using LLM_Interaction.Models;
-
+using LLM_Interaction.Services;
 namespace LLM_Interaction.Controllers
 {
     public class PromptsController : Controller
     {
         private LLMDbContext db = new LLMDbContext();
+
+        public ActionResult Execute()
+        {
+            ViewBag.Models = new SelectList(db.Models, "Id", "Name");
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> Execute(int modelId, string promptText)
+        {
+            var model = db.Models.Find(modelId);
+            var provider = model.Provider;
+
+            // Call LLM API using HttpClient
+            var result = await LLMService.ExecutePromptAsync(provider, model, promptText);
+
+            ViewBag.Models = new SelectList(db.Models, "Id", "Name");
+            ViewBag.Result = result;
+            return View();
+        }
+
 
         // GET: Prompts
         public async Task<ActionResult> Index()
