@@ -157,25 +157,25 @@ git checkout master
 git pull origin master
 
 # 2. Create a new feature branch for "Database Design" (using Jira ID)
-git checkout -b SCRUM-2-database-design
+git checkout -b Database-design
 
 # 3. (Perform your database design work in Visual Studio here, e.g., add models, DBContext, migrations)
 #    (Save your work and close Visual Studio before committing)
 
 # 4. Add and commit your changes to your feature branch
 git add .
-git commit -m "SCRUM-2: Implemented initial database schema and context"
+git commit -m "Implemented initial database  and context and Seed"
 
 # 5. Push your feature branch to GitHub
 git push -u origin SCRUM-2-database-design
 
 # 6. (Go to GitHub and create a Pull Request from SCRUM-2-database-design to master)
-#    (Title the PR: "SCRUM-2: Database Design - Initial Schema and EF Context")
+#    (Title the PR: "Database Design - Initial Schema and EF Context")
 #    (Get it reviewed and merge it)
 
 # 7. (After merging the PR on GitHub) Switch back to master and pull the changes
 git checkout master
 git pull origin master
 
-# (Optional: If you wanted to delete the branch locally, you would run: git branch -d SCRUM-2-database-design)
-# (Optional: If you wanted to delete the branch remotely, you would run: git push origin --delete SCRUM-2-database-design)
+# (Optional: If you wanted to delete the branch locally, you would run: git branch -d Database-design)
+# (Optional: If you wanted to delete the branch remotely, you would run: git push origin --delete Database-design)
