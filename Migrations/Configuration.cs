@@ -21,20 +21,21 @@
             //  to avoid creating duplicate seed data.
 
             // Seed Providers
-            var openAI = new Provider { Name = "OpenAI", ApiUrl = "https://api.openai.com", ApiKey = "your-key" };
-            var azure = new Provider { Name = "Azure OpenAI", ApiUrl = "https://azure.openai.com", ApiKey = "your-key" };
+            var openAI = new Provider { Name = "OpenAI", ApiUrl = "https://api.openai.com", ApiKey = "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" };
+            var azure = new Provider { Name = "Azure OpenAI", ApiUrl = "https://azure.openai.com", ApiKey = "azureopenapi-key" };
 
-            var microsoftCopilot = new Provider { Name = "Microsoft Copilot", ApiUrl = "https://microsoft.copilot.com", ApiKey = "your-key" };
+            var microsoftCopilot = new Provider { Name = "Microsoft Copilot", ApiUrl = "https://microsoft.copilot.com", ApiKey = "microsoftapi-key" };
 
             //context.Providers.AddOrUpdate(p => p.Name, openAI, azure);
             context.Providers.AddOrUpdate(p => p.Name, openAI, azure, microsoftCopilot);
             context.SaveChanges();
 
             // Seed Models
-            var gpt4 = new Model { Name = "GPT-4", ProviderId = openAI.Id };
+            //var gpt4 = new Model { Name = "GPT-4", ProviderId = openAI.Id };
             var gpt35 = new Model { Name = "GPT-3.5", ProviderId = openAI.Id };
 
-            context.Models.AddOrUpdate(m => m.Name, gpt4, gpt35);
+            //context.Models.AddOrUpdate(m => m.Name, gpt4, gpt35);
+            context.Models.AddOrUpdate(m => m.Name, gpt35);
             context.SaveChanges();
 
             // Seed Prompts
@@ -43,7 +44,7 @@
                 Title = "Explain Dependency Injection",
                 Content = "Explain DI in ASP.NET MVC with an example.",
                 Tags = "ASP.NET,DI",
-                ModelId = gpt4.Id
+                ModelId = gpt35.Id
             };
 
             context.Prompts.AddOrUpdate(p => p.Title, prompt);
