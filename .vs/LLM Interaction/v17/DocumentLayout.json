@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\DotNet\\Custom Apps\\LLM Interaction\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\controllers\\promptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:controllers\\promptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\views\\model\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:views\\model\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\views\\model\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\views\\model\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:views\\model\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\views\\model\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\views\\model\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:views\\model\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\views\\model\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\views\\model\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:views\\model\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\views\\model\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\views\\model\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:views\\model\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:controllers\\modelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,37 +78,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 217,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "PromptsController.cs",
+              "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Controllers\\PromptsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PromptsController.cs",
+              "ToolTip": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Controllers\\PromptsController.cs",
+              "RelativeToolTip": "Controllers\\PromptsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:44:44.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Model\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Model\\Index.cshtml",
               "ToolTip": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Model\\Index.cshtml",
               "RelativeToolTip": "Views\\Model\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-30T12:51:06.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Model\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Model\\Edit.cshtml",
-              "ToolTip": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Model\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Model\\Edit.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T12:51:02.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Model\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Model\\Details.cshtml",
@@ -112,12 +116,11 @@
               "RelativeToolTip": "Views\\Model\\Details.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T12:50:58.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T12:50:58.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Model\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Model\\Delete.cshtml",
@@ -125,12 +128,11 @@
               "RelativeToolTip": "Views\\Model\\Delete.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T12:50:51.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T12:50:51.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Model\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Model\\Create.cshtml",
@@ -138,12 +140,36 @@
               "RelativeToolTip": "Views\\Model\\Create.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T12:50:34.002Z",
+              "WhenOpened": "2025-06-30T12:50:34.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T11:44:35.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Model\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Model\\Edit.cshtml",
+              "ToolTip": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Model\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Model\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T12:51:02.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ModelController.cs",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Controllers\\ModelController.cs",
               "RelativeDocumentMoniker": "Controllers\\ModelController.cs",
@@ -151,25 +177,11 @@
               "RelativeToolTip": "Controllers\\ModelController.cs",
               "ViewState": "AgIAAHgAAAAAAAAAAAAAAH8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T12:32:53.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T12:32:53.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T11:44:35.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ProvidersController.cs",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Controllers\\ProvidersController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProvidersController.cs",
@@ -181,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -193,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SQLSelectScript.sql",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Database\\SQLSelectScript.sql",
               "RelativeDocumentMoniker": "Database\\SQLSelectScript.sql",
@@ -204,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
@@ -216,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Prompt.cs",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Models\\Prompt.cs",
               "RelativeDocumentMoniker": "Models\\Prompt.cs",
@@ -228,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Models\\Model.cs",
               "RelativeDocumentMoniker": "Models\\Model.cs",
@@ -240,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "LLMDbContext.cs",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Data\\LLMDbContext.cs",
               "RelativeDocumentMoniker": "Data\\LLMDbContext.cs",
@@ -252,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Provider.cs",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Models\\Provider.cs",
               "RelativeDocumentMoniker": "Models\\Provider.cs",
@@ -264,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
