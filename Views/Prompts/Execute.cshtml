@@ -1,0 +1,25 @@
+﻿@model dynamic
+@{
+    ViewBag.Title = "Execute Prompt";
+}
+
+<h2>Execute Prompt</h2>
+
+@using (Html.BeginForm("Execute", "Prompts", FormMethod.Post))
+{
+    <div>
+        @Html.Label("Model")
+        @Html.DropDownList("modelId", (SelectList)ViewBag.Models)
+    </div>
+    <div>
+        @Html.Label("Prompt")
+        @Html.TextArea("promptText", "", new { rows = 5, cols = 60 })
+    </div>
+    <button type="submit">Run Prompt</button>
+}
+
+@if (ViewBag.Result != null)
+{
+    <h3>Result:</h3>
+    <pre>@ViewBag.Result</pre>
+}

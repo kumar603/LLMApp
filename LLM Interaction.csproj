@@ -180,6 +180,7 @@
     <Compile Include="Models\Prompt.cs" />
     <Compile Include="Models\Provider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\LLMService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
@@ -261,11 +262,11 @@
     <Content Include="Views\Prompts\Details.cshtml" />
     <Content Include="Views\Prompts\Edit.cshtml" />
     <Content Include="Views\Prompts\Index.cshtml" />
+    <Content Include="Views\Prompts\Execute.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Database\" />
-    <Folder Include="Services\" />
     <Folder Include="SourceFiles\" />
     <Folder Include="ViewModels\" />
   </ItemGroup>
