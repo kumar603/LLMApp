@@ -28,11 +28,26 @@ namespace LLM_Interaction.Controllers
             var model = db.Models.Find(modelId);
             var provider = model.Provider;
 
-            // Call LLM API using HttpClient
+            // Call LLM API
             var result = await LLMService.ExecutePromptAsync(provider, model, promptText);
+
+            // Example static suggestions (can be dynamic later)
+            var suggestions = new List<string>
+                {
+                    "What are common mistakes with this topic?",
+                    "Can you show a real-world example?",
+                    "How does this compare to a similar concept?"
+                };
 
             ViewBag.Models = new SelectList(db.Models, "Id", "Name");
             ViewBag.Result = result;
+            ViewBag.Suggestions = suggestions;
+
+            //Optional: Make Suggestions Dynamic
+            //var suggestionPrompt = $"Suggest 3 follow-up questions based on this prompt: '{promptText}'";
+            //var suggestionsResult = await LLMService.ExecutePromptAsync(provider, model, suggestionPrompt);
+            //ViewBag.Suggestions = ParseSuggestions(suggestionsResult);
+
             return View();
         }
 

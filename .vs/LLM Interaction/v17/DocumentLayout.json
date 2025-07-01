@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\DotNet\\Custom Apps\\LLM Interaction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\services\\llmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:services\\llmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\controllers\\promptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:controllers\\promptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\views\\prompts\\execute.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\services\\llmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:services\\llmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\views\\prompts\\execute.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:views\\prompts\\execute.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|c:\\dotnet\\custom apps\\llm interaction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|C:\\DotNet\\Custom Apps\\LLM Interaction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A48BE0D0-69C1-458B-B22E-892CA5CB26EB}|LLM Interaction.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -86,17 +86,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 217,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LLMService.cs",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Services\\LLMService.cs",
               "RelativeDocumentMoniker": "Services\\LLMService.cs",
               "ToolTip": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Services\\LLMService.cs",
               "RelativeToolTip": "Services\\LLMService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T14:29:15.358Z",
               "EditorCaption": ""
@@ -109,20 +109,20 @@
               "RelativeDocumentMoniker": "Views\\Prompts\\Execute.cshtml",
               "ToolTip": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Views\\Prompts\\Execute.cshtml",
               "RelativeToolTip": "Views\\Prompts\\Execute.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-30T14:22:37.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PromptsController.cs",
               "DocumentMoniker": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Controllers\\PromptsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PromptsController.cs",
               "ToolTip": "C:\\DotNet\\Custom Apps\\LLM Interaction\\Controllers\\PromptsController.cs",
               "RelativeToolTip": "Controllers\\PromptsController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB8AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T13:44:44.186Z",
               "EditorCaption": ""
@@ -137,8 +137,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T11:44:35.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T11:44:35.628Z"
             },
             {
               "$type": "Document",
@@ -150,8 +149,7 @@
               "RelativeToolTip": "Models\\Provider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T05:55:34.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T05:55:34.732Z"
             },
             {
               "$type": "Document",
@@ -163,8 +161,7 @@
               "RelativeToolTip": "Migrations\\Configuration.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAYwCAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T07:00:36.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T07:00:36.813Z"
             },
             {
               "$type": "Document",
