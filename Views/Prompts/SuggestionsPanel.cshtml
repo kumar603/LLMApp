@@ -1,0 +1,22 @@
+@model List<string>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h4>Suggested Next Prompts</h4>
+    </div>
+    <div class="panel-body">
+        @if (Model != null && Model.Any())
+        {
+            <ul class="list-group">
+                @foreach (var suggestion in Model)
+                {
+                    <li class="list-group-item">@suggestion</li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p>No suggestions available.</p>
+        }
+    </div>
+</div>
